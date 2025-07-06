@@ -15,6 +15,10 @@ dark-mode-toggle/
 
 └── index.html
 
+## 🔗 Live Demo
+
+[Click here to see it in action](https://chakrabortyshalini.github.io/light-dark-mode-button/)
+
 ## 💡 How to Use
 
 1. Download or clone the repository:
